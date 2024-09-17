@@ -1,0 +1,24 @@
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <div class="navigointi">
+        <ul>
+            <li><a href="eka.html">Eka linkki</a></li>
+            <li><a href="toka.html">Toka linkki</a></li>
+            <li><a href="kolmas.html">Kolmas linkki</a></li>
+        </ul>
+    </div>
+</head>
+<body>
+    <h1>Pääotsikko</h1>
+    <p>Tässä on leipätekstiä</p>
+    <h2>Pienempi otsikko</h2>
+    <p>Jonka jälkeen tulee taas leipätekstiä</p>
+    <h3>Vielä vähän pienempi otsikko</h3>
+    <p>hazaa</p>
+    <br>
+    <p>tadaa</p>
+</body>
+<hr>
+<footer>
+    <p>tämä on täällä viivan takana &copy;</p>
+</footer>
